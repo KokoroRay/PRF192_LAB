@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708273473 source:d:\fpt\semester_1\prf\old\prf192_testcode\ss4 modules_functions\bai3\ex03lib\main.c
+	<stdio.h>
+	"Ex03Lib.h"
+
+1708105828 d:\fpt\semester_1\prf\old\prf192_testcode\ss4 modules_functions\bai3\ex03lib\ex03lib.h
+

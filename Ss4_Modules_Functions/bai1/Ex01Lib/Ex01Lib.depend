@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708005027 source:d:\fpt\semester_1\prf\old\prf192_testcode\ss4 modules_functions\bai1\ex01lib\main.c
+	<stdio.h>
+	<math.h>
+

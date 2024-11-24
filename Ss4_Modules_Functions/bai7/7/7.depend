@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708419301 source:d:\fpt\semester_1\prf\old\prf192_testcode\ss4 modules_functions\bai7\7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex07Lib.h"
+

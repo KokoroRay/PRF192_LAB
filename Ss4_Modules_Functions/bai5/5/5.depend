@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708322411 source:d:\fpt\semester_1\prf\old\prf192_testcode\ss4 modules_functions\bai5\5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ex05Lib.h"
+
